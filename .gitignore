@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+*.csv
+domains.json
+ui_health_report.json
+ui_health_summary.json
+*.log
